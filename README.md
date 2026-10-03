@@ -200,7 +200,8 @@ The project description reports a stable **1.26 V reference** with approximately
 
 The Cadence DC simulation shows the reference voltage remaining close to **1.26 V** over temperature.
 
-![VREF vs Temperature](BGR_assets/vref_temperature.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/e717ecd7-1a2d-476d-9d69-548532dd7eb6" />
+
 
 The simulation demonstrates the temperature-compensation behavior of the PTAT and CTAT components.
 
