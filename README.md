@@ -150,6 +150,8 @@ The OTA provides the feedback mechanism required to establish the operating poin
 
 A CMOS startup circuit is included to prevent the bandgap core from settling at the undesirable **zero-current metastable state**.
 
+<img width="1021" height="812" alt="Screenshot 2026-08-11 180120" src="https://github.com/user-attachments/assets/436db7c3-2664-49ec-a8cd-e7e1dd951ad4" />
+
 ---
 
 # 7. Design Methodology
