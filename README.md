@@ -137,8 +137,6 @@ The reference voltage is obtained by combining the positive and negative tempera
 - **PTAT:** Provides a voltage component with positive temperature dependence.
 - Proper scaling of these components produces a temperature-compensated reference.
 
-<img width="594" height="796" alt="Screenshot 2026-08-29 124938" src="https://github.com/user-attachments/assets/904779b3-f9cb-4a7f-a6fb-fd51c4c77e4a" />
-
 
 ### Precision OTA
 
