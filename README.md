@@ -212,19 +212,18 @@ The simulation demonstrates the temperature-compensation behavior of the PTAT an
 
 ---
 
-## 10.2 Temperature Sweep
+## 10.2 CTAT Generation
 
-Additional temperature-sweep simulations were performed to examine the stability of the reference voltage.
+Base-emitter voltage (VBE) of PNP BJTs as shown below
 
-![VREF Temperature Sweep](BGR_assets/vref_temperature_sweep.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/408abeb6-af13-42cb-9abc-df32a7bca751" />
 
 ---
 
-## 10.3 Reference Voltage Detail
+## 10.3 PTAT Generation
 
-The reference-voltage response around the operating region is shown below.
-
-![VREF Temperature Detail](BGR_assets/vref_temperature_detail.png)
+ΔVBE across matched BJTs scaled by resistor as shown below
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d53e5456-6505-44e7-9a3d-74642fc9e08a" />
 
 ---
 
