@@ -232,21 +232,17 @@ The reference-voltage response around the operating region is shown below.
 
 The AC simulations were used to evaluate the power-supply rejection behavior of the reference.
 
-### PSRR at 40°C
-
-![PSRR at 40C](BGR_assets/psrr_40C.png)
-
-The documented result at 40°C is approximately **42.5 dB** in the plotted region.
-
 ### PSRR at Room Temperature
 
-![PSRR at Room Temperature](BGR_assets/psrr_room_temperature.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/ff9e4362-02e5-40ff-9b3f-7f3904a63368" />
+
 
 The project description reports approximately **42.78 dB PSRR at room temperature**.
 
-### PSRR at Negative Temperature
+### PSRR Temperature Sweep
 
-![PSRR at Negative Temperature](BGR_assets/psrr_negative_temperature.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a2ae77f0-c455-41f9-870a-9460050adabc" />
+
 
 The available simulation data reports:
 
@@ -258,10 +254,6 @@ The available simulation data reports:
 | 80°C | -41.5 dB |
 
 The PSRR values are shown with the sign convention used in the Cadence plots; the corresponding rejection magnitudes are approximately 44.16 dB, 43.3 dB, 42.5 dB, and 41.5 dB.
-
-### PSRR Temperature Sweep
-
-![PSRR Temperature Sweep](BGR_assets/psrr_temperature_sweep.png)
 
 ---
 
